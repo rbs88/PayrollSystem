@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\NELRUBY\Desktop\Aldo October  21, 2023\ALDO AUGUST 29, 2023\ALDO\aldobuilders\AldoBuildersPayrollSystem\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="attendanceandpayroll\frmAttendanceViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmDateCovered.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmFinalResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmPayrollMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmPayrollSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmSignatories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmTapRFID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="attendanceandpayroll\frmUpdateTimeAndHours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ATU\frmAbsent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ATU\frmATU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeductionHistory\frmDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeductionHistory\frmOtherDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\CaseAndPromotion\frmAddNewCaseRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\CaseAndPromotion\frmAddNewPromotionRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\CaseAndPromotion\frmMainCaseAndPromotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\InActiveMasterlist\frmInactiveMasterList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\MasterList\frmAddNewEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\MasterList\frmAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\MasterList\frmDesignation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\MasterList\frmMainEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\MasterList\frmMainEmployeeLoadRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login\frmAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report\frmEmployeeMasterList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report\frmPalagdaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report\frmPalagdaanSaPagtanggap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report\frmPayrollSlip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report\frmReportSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionHistory\frmAddHours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionHistory\frmCreatingServiceHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="report\DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
